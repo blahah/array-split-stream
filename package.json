@@ -1,6 +1,6 @@
 {
   "name": "array-split-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "array-split-stream",
   "main": "index.js",
   "scripts": {
