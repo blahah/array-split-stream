@@ -26,7 +26,7 @@ npm install array-split-stream
 ## Usage
 
 ``` js
-var splitter = require('array-split-stream')
+var splitter = require('array-split-stream')()
 
 splitter.on('data', function(entry) {
   console.log('entry:', entry)
