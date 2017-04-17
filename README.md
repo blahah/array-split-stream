@@ -15,7 +15,7 @@
 
 ---
 
-A nodeJS [through2](https://github.com/rvagg/through2) transform stream that splits incoming arrays, emitting each array entry as a separate data event to.
+A nodeJS [through2](https://github.com/rvagg/through2) transform stream that splits incoming arrays, emitting each array entry as a separate data event.
 
 ## Install
 
