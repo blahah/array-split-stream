@@ -1,0 +1,25 @@
+{
+  "name": "array-split-stream",
+  "version": "0.0.0",
+  "description": "array-split-stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blahah/array-split-stream.git"
+  },
+  "author": "Rik Smith-Unna (@blahah)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/blahah/array-split-stream/issues"
+  },
+  "homepage": "https://github.com/blahah/array-split-stream"
+}
