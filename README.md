@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>array-split-stream</h1>
-  <h2>a nodeJS transform stream that splits incoming arrays</h2>
+  <h2>a nodeJS transform stream that splits arrays</h2>
   <p>
     <a href="https://npmjs.com/packages/array-split-stream" alt="npm package">
       <img src="https://img.shields.io/npm/v/array-split-stream.svg?style=flat-square">
